@@ -1,2 +1,3 @@
 # Introduction-to-E-Business-project
-This repository is for Introduction to E-Business project, a subject in my third year at Mahidol University.
+This repository is for the Introduction to E-Business project, a subject in my third year at Mahidol University.
+This project consists of 6 members: Peerawat Sorosthunyapong, Poomrapee Wareeboutr, Pitchaya Teerawongpairoj, Pawin Khamlaksana, and Sasima Srijanya.
